@@ -70,12 +70,12 @@ Where : Several Mysterious Places
 
 ![mysterious place](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/587951d9-8744-4415-9a9e-a29ca64af4e1)
 
-The name mentioned above often visit these 5 mysterious places where there is no detail of 
+The name mentioned above often visits these 5 mysterious places where there is no detail of 
 what location it is. They generally visit these places during the lunch break and there are no 
-transacƟons on their card being charged during their visit to these places. Again the names are 
+transactions on their card being charged during their visit to these places. Again the names are 
 similar to the security member that spies on the execuƟve houses but Isia Vann is not included 
-here, instead, there’s Inga Ferro who is also the member of the security team. The table below 
-describes their visiƟng dates and area
+here, instead, there’s Inga Ferro who is also a member of the security team. The table below 
+describes their visiting dates and area
 
 Who : Lucas Alcazar & Minke Mies
 When : Night, 13 Jan
