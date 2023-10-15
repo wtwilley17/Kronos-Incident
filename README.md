@@ -54,7 +54,7 @@ individuals who needs further investigation: Loreto Bodrogi, Isia Vann, Minke Mi
 Osvaldo – all of whom hold positions within GAStech's security division. Intriguingly, their 
 activities have been notably conspicuous during the midnight to early morning hours on specific 
 dates: January 7th, 9th, 11th, and 14th. What sets these instances apart is the fact that their GPS 
-locaƟons seem to converge at the residences of prominent executives, namely Ada Campo 
+locations seem to converge at the residences of prominent executives, namely Ada Campo 
 Corrente, Orhan Strum, Willem Vasco Pais, and Ingrid Barranco. Such patterns raise suspicions, 
 suggesting potential ulterior motives. Given the context of a kidnapping investigation in this 
 project, it is possible that these security personnel could be linked to the abduction. Their 
@@ -89,22 +89,26 @@ whereabouts were instead traced to Ouzeri Elian. Several potential explanations 
 with its own complexities. Furthermore, after the suspicious activities done at night by the 
 security team, further investigation focused on those security members. One theory points to 
 potential credit card theft by Loreto Bodrogi, given his proximity to Ouzeri Elian that night and 
-move to near his home which is coincidentally near from Frydos Autosupply n' More. 
+move to near his home which is coincidentally near from Frydos Autosupply n' More.
+
 ![lucas vs loreto](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/af32a8e5-bfc0-4bca-ac94-166919fd3df2)
 
 An alternative hypothesis implicates Minke Mines, whose GPS location more accurately 
 aligns with Frydos Autosupply n' More. Yet, no corresponding transaction from Minke Mies 
 corroborates this theory. This hypothesis also creates suspicion towards Henk Mies the truck 
 driver, as they shared family name and with a big purchase of $1000, it might be items that 
-need to be transported by truck. However further invesƟgaƟon showed that Henk never drives 
+need to be transported by truck. However further investigation showed that Henk never drives 
 past/near the shops, thus he is out of suspicion.
+
 ![minke mines no transaction](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/735b573e-b031-459b-98a9-8cc421cfdfe3)
 
-Possible credit card theŌ happened supported with the fact that Lucas's credit card sees 
+Possible credit card theft happened supported with the fact that Lucas's credit card sees 
 no further usage following this event, limited only to his loyalty point utilization up to the 16th
 Jan. 
 
 ![lucas 1000 13 night](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/b20a96f5-253e-458a-a94a-a1e7ec512a1f)
+
+
 
 
 
