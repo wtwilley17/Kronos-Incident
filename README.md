@@ -43,9 +43,9 @@ identification of suspicious behaviors and aids in confirming the legitimacy of 
 
 ## Anomalies
 
-Who : Loreto Bodrogi , Isia Vann, Minke Mies, Hennie Osvaldo    
-When : Midnight – Early Morning | 7,9,11 and 14 January     
-Where : Executive Houses (Ada Campo Corrente, Orhan Strum, Willem Vasco Pais, and Ingrid Barranco)     
+### Who : Loreto Bodrogi , Isia Vann, Minke Mies, Hennie Osvaldo    
+### When : Midnight – Early Morning | 7,9,11 and 14 January     
+### Where : Executive Houses (Ada Campo Corrente, Orhan Strum, Willem Vasco Pais, and Ingrid Barranco)     
 
 ![shift table](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/b9064698-eb8b-4990-8a88-846cd526b591)
 
@@ -62,9 +62,9 @@ seemingly suspicious actions and location near executive houses could indicate a
 involvement, possibly implicaƟng them as suspects or, at the very least, individuals of interest in 
 a kidnapping scenario.
 
-Who : Loreto Bodrogi, Minke Mies, Inga Ferro, and Hennie Osvaldo  
-When : Generally Afternoon on Weekday  
-Where : Several Mysterious Places  
+### Who : Loreto Bodrogi, Minke Mies, Inga Ferro, and Hennie Osvaldo  
+### When : Generally Afternoon on Weekday  
+### Where : Several Mysterious Places  
 
 ![sus place](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/41d64117-1402-4da2-a06e-56eba7be3278)
 
@@ -77,9 +77,9 @@ similar to the security member that spies on the executive houses but Isia Vann 
 here, instead, there’s Inga Ferro who is also a member of the security team. The table below 
 describes their visiting dates and area
 
-Who : Lucas Alcazar & Minke Mies  
-When : Night, 13 Jan  
-Where : Frydos Autosupply n’ More   
+### Who : Lucas Alcazar & Minke Mies  
+### When : Night, 13 Jan  
+### Where : Frydos Autosupply n’ More   
 
 ![loreto xx lucas](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/db631d81-cf02-4e28-8529-e90f08bf5979)
 
