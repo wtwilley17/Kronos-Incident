@@ -14,7 +14,7 @@ The visualization phase of the project used Plotly Dash to provide an interactiv
 The first tab, dedicated to "Truck Driver Movement," addresses the unique challenge of 
 identifying truck drivers for various routes and dates. The dynamic graph displayed on this tab enables 
 users to select specific routes and dates. By correlating the GPS data with the truck routes, this 
-visualizaƟon aids in pinpoinƟng the responsible truck driver for each route on disƟnct occasions. This 
+visualizaƟon aids in pinpoinƟng the responsible truck driver for each route on distinct occasions. This 
 insight provides clarity into truck driver assignments and route allocation, contributing to a 
 comprehensive understanding of the geospatial-temporal patterns associated with truck drivers.
 
@@ -22,10 +22,10 @@ comprehensive understanding of the geospatial-temporal patterns associated with 
 ![geeneral tab](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/16dd1ec6-52b7-470e-b7bb-8e37a93f3f16)
 
 The second tab introduced an intuitive dropdown menu enabling the selection of distinct 
-employee categories. An addiƟonal Ɵme dropdown facilitated the isolation of movements during specific 
+employee categories. An additional time dropdown facilitated the isolation of movements during specific 
 periods of the day. The chosen parameters dynamically updated the graph, allowing users to visualize 
 employee movement patterns based on their category and chosen time. Complementing the graph, a 
-table provided details, enhancing the understanding of employee trajectories. A weekend radio buƩon
+table provided details, enhancing the understanding of employee trajectories. A weekend radio button
 was added, to switch between weekday and weekend views. This option aimed to unveil disparities in 
 general employee movement behaviors between these timeframes.
 
@@ -34,12 +34,14 @@ general employee movement behaviors between these timeframes.
 ![individual](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/1ec21ee7-fafc-42f5-bcc7-d8f9b40b3abd)
 
 In the "Individual Employee Movement" tab, users can select an employee's name, along with a 
-date and Ɵme range. The resulting graph provides a detailed trajectory of the selected employee's 
+date and time range. The resulting graph provides a detailed trajectory of the selected employee's 
 movement during the specified period. A supplementary table showing card transaction data is 
 posiƟoned under the graph. This integration facilitates a comprehensive analysis, enabling users to 
 discern potential anomalies or irregulariƟes in an individual employee's movement patterns and 
 associated financial activities. By comparing movement data with card transactions, this tab supports the 
-identification of suspicious behaviors and aids in confirming the legitimacy of transacƟons
+identification of suspicious behaviors and aids in confirming the legitimacy of transactions
+
+
 
 
 
