@@ -1,5 +1,5 @@
 # Kronos-Incident
-## The Kronos Incident: Geospatial-Temporal Patterns of Life Analysis
+The Kronos Incident: Geospatial-Temporal Patterns of Life Analysis
 
 This project revolves around tackling the complex mystery presented by the VAST Challenge in January 2014. The enigmatic disappearance of GAStech employees during their company's IPO celebration, with suspicions pointing towards the Protectors of Kronos (POK), creates a compelling backdrop. GAStech's secretive geospatial tracking software, concealed within company vehicles, serves as a crucial data source, despite missing data for the critical day of the disappearance. Law enforcement has also provided access to two weeks of credit and debit card transactions and loyalty card data for local GAStech employees.
 
