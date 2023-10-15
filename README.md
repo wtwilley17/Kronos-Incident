@@ -5,6 +5,38 @@ This project revolves around tackling the complex mystery presented by the VAST 
 
 As a data science expert aiding the investigation, our mission is to harness the power of data visualization and analytics to decipher this information. We must unravel the complexities arising from incomplete and inconsistent data to identify suspicious behavioral patterns and prioritize leads related to the missing personnel. This project embarks on a journey through data exploration and visualization to shed light on the enigma of the missing GAStech employees and assist law enforcement in their quest for answers.
 
+## Data Cleaning and Preprocessing 
+### 1. GPS Data 
+The primary dataset used in the analysis is the GPS data, which was combined with the car 
+assignment data to create a comprehensive data frame. By merging the "gps.csv" file with the 
+"car_assignment.csv" file, a cohesive dataset was created. This integrated data frame provides 
+essential information such as timestamps, longitude, latitude, driver names, car IDs, and 
+employment details. This dataset serves as the foundation for mapping employee locations at 
+specific points in time, enabling the visualization of their movements two weeks prior to the 
+incident. 
+
+### 2. Stop Data 
+Given that the GPS data lacks explicit stop information, the "stop data" fills this gap. A 
+specialized function was developed to iterate through the main data frame, calculating time 
+intervals between rows. When the time interval exceeded five minutes, a stop flag was 
+incorporated into the dataset, enabling a comprehensive understanding of where employees 
+visited during their days. 
+
+### 3. Card Data 
+Card transaction data provide insights into employees' financial acƟviƟes. The integration of 
+credit card and loyalty transaction data into a unified data frame facilitated a comprehensive 
+analysis of financial behavior. Transaction-type flag was added to distinguish between credit 
+card and loyalty card transactions, enabling a nuanced exploration of spending patterns. This 
+combined dataset is created to unravel potential correlations between employee behavior and 
+financial activities, further strengthening the analytical framework.
+
+These Python files collectively laid the base groundwork for the dashboard development using Plotly 
+Dash. The processed merging, cleaning, and categorizaƟon of diverse data sources created in a unified 
+dataset ready for analysis. This integrated dataset helps this project to examine and bring together 
+employee geospatial-temporal patterns with credit card transaction records. The dashboard, a visual 
+interface powered by the prepared data, is used as an important tool to analyze employee movements, 
+investigate anomalies, and establish accuracy in credit card transactions.
+
 ## Data Visualization 
 The visualization phase of the project used Plotly Dash to provide an interactive and comprehensive representation of the cleaned and merged data. The integration of Plotly Dash component tabs facilitated a structured and user-friendly interface for exploring the diverse facets of employee movement and behavior. 
 
