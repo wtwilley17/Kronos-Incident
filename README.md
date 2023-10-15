@@ -36,16 +36,16 @@ general employee movement behaviors between these timeframes.
 In the "Individual Employee Movement" tab, users can select an employee's name, along with a 
 date and time range. The resulting graph provides a detailed trajectory of the selected employee's 
 movement during the specified period. A supplementary table showing card transaction data is 
-posiƟoned under the graph. This integration facilitates a comprehensive analysis, enabling users to 
+positioned under the graph. This integration facilitates a comprehensive analysis, enabling users to 
 discern potential anomalies or irregularities in an individual employee's movement patterns and 
 associated financial activities. By comparing movement data with card transactions, this tab supports the 
 identification of suspicious behaviors and aids in confirming the legitimacy of transactions
 
 ## Anomalies
 
-Who : Loreto Bodrogi , Isia Vann, Minke Mies, Hennie Osvaldo
-When : Midnight – Early Morning | 7,9,11 and 14 January 
-Where : Executive Houses (Ada Campo Corrente, Orhan Strum, Willem Vasco Pais, and Ingrid Barranco) 
+Who : Loreto Bodrogi , Isia Vann, Minke Mies, Hennie Osvaldo    
+When : Midnight – Early Morning | 7,9,11 and 14 January     
+Where : Executive Houses (Ada Campo Corrente, Orhan Strum, Willem Vasco Pais, and Ingrid Barranco)     
 
 ![shift table](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/b9064698-eb8b-4990-8a88-846cd526b591)
 
@@ -62,9 +62,9 @@ seemingly suspicious actions and location near executive houses could indicate a
 involvement, possibly implicaƟng them as suspects or, at the very least, individuals of interest in 
 a kidnapping scenario.
 
-Who : Loreto Bodrogi, Minke Mies, Inga Ferro, and Hennie Osvaldo
-When : Generally Afternoon on Weekday
-Where : Several Mysterious Places
+Who : Loreto Bodrogi, Minke Mies, Inga Ferro, and Hennie Osvaldo  
+When : Generally Afternoon on Weekday  
+Where : Several Mysterious Places  
 
 ![sus place](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/41d64117-1402-4da2-a06e-56eba7be3278)
 
@@ -73,13 +73,13 @@ Where : Several Mysterious Places
 The name mentioned above often visits these 5 mysterious places where there is no detail of 
 what location it is. They generally visit these places during the lunch break and there are no 
 transactions on their card being charged during their visit to these places. Again the names are 
-similar to the security member that spies on the execuƟve houses but Isia Vann is not included 
+similar to the security member that spies on the executive houses but Isia Vann is not included 
 here, instead, there’s Inga Ferro who is also a member of the security team. The table below 
 describes their visiting dates and area
 
-Who : Lucas Alcazar & Minke Mies
-When : Night, 13 Jan
-Where : Frydos Autosupply n’ More 
+Who : Lucas Alcazar & Minke Mies  
+When : Night, 13 Jan  
+Where : Frydos Autosupply n’ More   
 
 ![loreto xx lucas](https://github.com/wtwilley17/Kronos-Incident/assets/93458004/db631d81-cf02-4e28-8529-e90f08bf5979)
 
