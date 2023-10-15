@@ -23,7 +23,7 @@ incorporated into the dataset, enabling a comprehensive understanding of where e
 visited during their days. 
 
 ### 3. Card Data 
-Card transaction data provide insights into employees' financial acƟviƟes. The integration of 
+Card transaction data provide insights into employees' financial activities. The integration of 
 credit card and loyalty transaction data into a unified data frame facilitated a comprehensive 
 analysis of financial behavior. Transaction-type flag was added to distinguish between credit 
 card and loyalty card transactions, enabling a nuanced exploration of spending patterns. This 
