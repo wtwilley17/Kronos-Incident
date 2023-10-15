@@ -31,7 +31,7 @@ combined dataset is created to unravel potential correlations between employee b
 financial activities, further strengthening the analytical framework.
 
 These Python files collectively laid the base groundwork for the dashboard development using Plotly 
-Dash. The processed merging, cleaning, and categorizaƟon of diverse data sources created in a unified 
+Dash. The processed merging, cleaning, and categoriztion of diverse data sources created in a unified 
 dataset ready for analysis. This integrated dataset helps this project to examine and bring together 
 employee geospatial-temporal patterns with credit card transaction records. The dashboard, a visual 
 interface powered by the prepared data, is used as an important tool to analyze employee movements, 
